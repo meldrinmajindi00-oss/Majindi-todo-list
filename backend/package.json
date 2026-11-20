@@ -1,0 +1,10 @@
+{
+  "name": "todo-backend",
+  "version": "1.0.0",
+  "description": "Express + MongoDB backend for React Native To-Do List activity",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  }
+}
